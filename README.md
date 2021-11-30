@@ -1,7 +1,7 @@
 # M2-Embeded_Heat_Controller
 
 
-## Heat Control System 
+## Heat Controller
 
 ### Theory
 
