@@ -58,6 +58,40 @@ Principle of Heat control system now a days:
 ![image](https://user-images.githubusercontent.com/94212414/144163130-c5f51811-edf5-419c-b966-7a0a2b0fb0c4.png)
 
 
+## FEATURES 
+
+-Manual room thermostats set your room to the temperature you want and keep it there by turning your heating on and off automatically.
+
+-Thermostatic radiator valves.
+
+-Programmable room thermostats.
+
+-Smart heating controls.
+
+## High Level Requirements
+
+---
+
+| HLR   | Description                  |
+| ----- | -----------------------------|
+| HLR_1 | Easy to meaure the temprature|
+| HLR_2 | Easily construct the circuit |
+| HLR_3 | Fast result decleration      |
+
+## Low Level Requirements
+
+---
+
+| LLR    | Description                                         |
+| ------ | --------------------------------------------------- |
+| LLR_1  | Serial monitor is attached                          |
+| LLR_2  | CRO is used in this project                         |
+| LLR_3  | RAM Table determines the status                     |
+
+
+
+
+
 
 
 
