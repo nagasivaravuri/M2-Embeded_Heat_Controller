@@ -1,6 +1,6 @@
 /**
  * @file TemperatureSensorADC.h
- * @author Hemanth A (hemanth.ec17@bmsce.ac.in)
+ * @author Siva Kumar R (ravurishiva1999@gmail.com)
  * @brief A header file for ADC of temperature sensor
  * @version 0.1
  * @date 2021-11-30
