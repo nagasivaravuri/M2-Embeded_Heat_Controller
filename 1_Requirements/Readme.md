@@ -46,6 +46,19 @@ People may missuse the equipmen.
 
 ## STATE OF ART 
 
+Principle of Heat control system 20 years ago:
+
+
+![image](https://user-images.githubusercontent.com/94212414/144163007-c3465c8c-cb59-4f00-9583-99f11ba0c265.png)
+
+
+Principle of Heat control system now a days:
+
+
+![image](https://user-images.githubusercontent.com/94212414/144163130-c5f51811-edf5-419c-b966-7a0a2b0fb0c4.png)
+
+
+
 
 
 
