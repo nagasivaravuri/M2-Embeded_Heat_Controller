@@ -16,7 +16,9 @@
 ![image](https://user-images.githubusercontent.com/94212414/144165597-1c8926a6-6f3b-4d82-a910-2709fcdc85f3.png)
 
 ## SIMULATION CIRCUIT 
-![image](https://user-images.githubusercontent.com/94212414/144165746-eb82ad9a-5d3a-49ee-89ef-99d776705d30.png)
+
+![Simulation_OFF 1](https://user-images.githubusercontent.com/94212414/144166112-8047e92e-49b7-4287-825d-8dac9d62d1f0.png)
+
 
 
 
