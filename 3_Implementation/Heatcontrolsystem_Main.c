@@ -1,6 +1,6 @@
 /**
  * @file HeatControlSystem_Main.c
- * @author Hemanth A (hemanth.ec17@bmsce.ac.in)
+ * @author Siva Kumar R (ravurishiva1999@gmail.com)
  * @brief The main program to execute the heat control system of a seat inside a car
  * @version 0.1
  * @date 2021-11-29
